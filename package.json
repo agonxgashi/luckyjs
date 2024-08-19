@@ -1,6 +1,6 @@
 {
   "name": "@agonxgashi/luckyjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript library to generate a random boolean value",
   "main": "index.js",
   "type": "commonjs",
