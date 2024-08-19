@@ -1,0 +1,27 @@
+{
+  "name": "@agonxgashi/luckyjs",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library to generate a random boolean value",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agonxgashi/luckyjs.git"
+  },
+  "keywords": [
+    "lucky",
+    "random",
+    "boolean",
+    "library",
+    "javascript"
+  ],
+  "author": "Agon Gashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agonxgashi/luckyjs/issues"
+  },
+  "homepage": "https://github.com/agonxgashi/luckyjs#readme"
+}

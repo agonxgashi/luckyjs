@@ -1,13 +1,13 @@
-function lucky(propability = 50) {
-    if (propability <= 0) {
+function lucky(probability = 50) {
+    if (probability <= 0) {
         return false;
     }
 
-    if (propability >= 100) {
+    if (probability >= 100) {
         return true;
     }
 
-    return Math.random() < (propability / 100)
+    return Math.random() < (probability / 100)
 }
   
-  module.exports = lucky;
+module.exports = lucky
